@@ -24,5 +24,15 @@ export default {
                 link: 'https://github.com/davidcralph/mmd-guide'
             }
         ]
-    }
-}
+    },
+    head: [
+        [
+            'script',
+            {},
+            `const script = document.createElement('script');
+            script.src = 'https://umami.davidcralph.co.uk/umami.js';
+            script.setAttribute('data-website-id', '2bb78cae-a198-485f-ba7d-5e92300cc575');
+            document.head.appendChild(script);`
+        ]
+    ]
+};

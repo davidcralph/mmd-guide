@@ -11,6 +11,12 @@ export default {
                 '/basics/getting-started/installation.md',
                 '/basics/getting-started/navigating-mmd.md'
             ]
+        },
+        {
+            text: 'Other',
+            children: [
+                '/basics/downloading-content.md'
+            ]
         }
     ]
 };

@@ -1,0 +1,12 @@
+{
+    "private": true,
+    "name": "mmd-guide",
+    "scripts": {
+        "dev": "vuepress dev docs",
+        "build": "vuepress build docs"
+    },
+    "dependencies": {
+        "vuepress": "^2.0.0-beta.39",
+        "vuepress-vite": "^1.0.0-beta.1"
+    }
+}

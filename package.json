@@ -2,8 +2,8 @@
     "private": true,
     "name": "mmd-guide",
     "scripts": {
-        "dev": "vuepress dev docs",
-        "build": "vuepress build docs"
+        "dev": "vuepress dev guide",
+        "build": "vuepress build guide"
     },
     "devDependencies": {
         "vuepress": "^2.0.0-beta.39",

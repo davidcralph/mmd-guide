@@ -20,5 +20,20 @@ export default {
                 '/basics/importing-audio.md'
             ]
         }
+    ],
+    '/advanced': [{}],
+    '/tutorials': [{
+            text: 'Home',
+            children: [
+                '/',
+                '/tutorials/README.md'
+            ]
+        },
+        {
+            text: 'Tutorials',
+            children: [
+                '/tutorials/hologram-videos.md',
+            ]
+        }
     ]
 };

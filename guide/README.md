@@ -1,7 +1,6 @@
 ---
 home: true
 title: MMD Guide
-heroImage: /images/hero.png
 actions:
   - text: Get Started →
     link: /basics/

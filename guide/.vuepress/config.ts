@@ -20,6 +20,10 @@ export default {
                 link: '/advanced/'
             },
             {
+                text: 'Tutorials',
+                link: '/tutorials/'
+            },
+            {
                 text: 'Contribute',
                 link: 'https://github.com/davidcralph/mmd-guide'
             }

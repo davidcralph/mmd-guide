@@ -26,4 +26,6 @@ Go back to the file dropdown menu and select "Export" and "Export as WAV" this t
 
 Finally, in MMD, you can select "file", then "load WAV file" and select the WAV file you exported.
 
-**WARNING: PLEASE CHECK YOUR MMD VOLUME SLIDER BEFORE PLAYING AUDIO AS IT CAN BE VERY LOUD**
+::: warning
+Please check your MMD volume slider before playing as it can be very loud
+:::

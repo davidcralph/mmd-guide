@@ -2,7 +2,8 @@ export default {
     '/basics': [{
             text: 'Home',
             children: [
-                '/'
+                '/',
+                '/basics/README.md'
             ]
         },
         {
@@ -15,7 +16,8 @@ export default {
         {
             text: 'Other',
             children: [
-                '/basics/downloading-content.md'
+                '/basics/downloading-content.md',
+                '/basics/importing-audio.md'
             ]
         }
     ]
